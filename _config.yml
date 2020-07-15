@@ -1,10 +1,12 @@
-title: Your awesome title
-author: GitHub User
+theme: minima
+title: GitHub Learning Lab
+author: Shrishti Awasthi
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am new to this GitHub and the material provided to kick start is awesome.
+  I am having fun learning and hope you too will enjoy.
+  
+  Great Learning!
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
