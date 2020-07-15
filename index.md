@@ -2,4 +2,4 @@
 
 Hello Stranger! Hope you are doing good.
 
-Byee and looking forward to see you again!
+Best of LUCK.
